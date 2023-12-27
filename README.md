@@ -6,7 +6,7 @@
   
   :blue_heart:찍먹 중:blue_heart:
   
-  :blue_heart:시티팝 처돌이:blue_heart:
+  :blue_heart:전공 찾는 중:blue_heart:
   
 ![Github Followers](https://img.shields.io/github/followers/parksiwoon?style=social)
 
