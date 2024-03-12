@@ -4,9 +4,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello!&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Bab%20Shunn.&descAlign=70.&descAlignY=44)
   
   
-  :blue_heart:찍먹 중:blue_heart:
-  
-  :blue_heart:전공 찾는 중:blue_heart:
   
 ![Github Followers](https://img.shields.io/github/followers/parksiwoon?style=social)
 
