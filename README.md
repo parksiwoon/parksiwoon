@@ -1,4 +1,4 @@
-# SW Park (=Bab)
+# SW Park
 <div align=center> 
   
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hello!&fontAlign=70&rotate=13&fontAlignY=25&desc=I'm%20Bab%20Shunn.&descAlign=70.&descAlignY=44)
@@ -24,7 +24,5 @@
    (2022 ~ 2023) 숭실대학교 중앙 동아리 Synergy
   
    (2022 ~ ) 숭실대학교 전자정보공학부 소모임 Robotics
-   
-   (2024 ~ 2025 ) 숭실대학교 전자정보공학부 소모임 Robotics 회장
   
   :blue_heart::green_heart::purple_heart::heart::yellow_heart:
