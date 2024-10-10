@@ -32,19 +32,19 @@
   - **Ant-design Korea Contribution**: <br>Active participation in the Ant-design Korea community, contributing to open-source.
 
   ## 🏆 Competitions
-<p><strong>**2019**</strong>: Computer Data Science Camp (Awarded)</p>
-<p><strong>**2020**</strong>: SK Smarteen App+ Challenge</p>
-<p><strong>**2021**</strong>: Samsung Junior SW Creativity Contest</p>
-<p><strong>**2024**</strong>: Embedded Contest (Web OS Finals)</p>
+<p><strong>2019</strong>: Computer Data Science Camp (Awarded)</p>
+<p><strong>2020</strong>: SK Smarteen App+ Challenge</p>
+<p><strong>2021</strong>: Samsung Junior SW Creativity Contest</p>
+<p><strong>2024</strong>: Embedded Contest (Web OS Finals)</p>
 
   ## :mortar_board: Education
   **(2022~)**: 숭실대학교 전자정보공학부 IT융합학과
 
   ## :girl: Experience
-<p><strong>**(2020 ~ 2021)**</strong>: 북원여자고등학교 ToP 회장</p>
-<p><strong>**(2022 ~ 2023)**</strong>: 숭실대학교 중앙 동아리 Synergy</p>
-<p><strong>**(2022 ~ )**</strong>: 숭실대학교 전자정보공학부 소모임 Robotics</p>
-<p><strong>**(2024 ~ 2025)**</strong>: Robotics 회장</p>
+<p><strong>(2020 ~ 2021)</strong>: 북원여자고등학교 ToP 회장</p>
+<p><strong>(2022 ~ 2023)</strong>: 숭실대학교 중앙 동아리 Synergy</p>
+<p><strong>(2022 ~ )</strong>: 숭실대학교 전자정보공학부 소모임 Robotics</p>
+<p><strong>(2024 ~ 2025)</strong>: Robotics 회장</p>
   
   ## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
