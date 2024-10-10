@@ -47,6 +47,6 @@
 <p><strong>**(2024 ~ 2025)**</strong>: Robotics 회장</p>
   
   ## 🌐 Connect with Me
-<p>[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)</p>
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
 
 ---
