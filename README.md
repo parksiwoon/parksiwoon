@@ -21,9 +21,9 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 
   ## 💡 Interests
-  - **Frontend Development**: React, React Native, Enact
-  - **Cloud Technologies**: AWS (Certified Practitioner)
-  - **Open Source Contributions**: Ant-design Korea
+**Frontend Development**: React, React Native, Enact
+**Cloud Technologies**: AWS (Certified Practitioner)
+**Open Source Contributions**: Ant-design Korea
 
   ## :hammer_and_wrench: Notable Projects
   - **Real-Time Process Monitoring and Resource Optimization Using a Custom Linux Top Command**: <br>Streamlining system performance with a tailored process monitoring tool.
@@ -32,21 +32,21 @@
   - **Ant-design Korea Contribution**: <br>Active participation in the Ant-design Korea community, contributing to open-source.
 
   ## 🏆 Competitions
-  - **2019**: Computer Data Science Camp (Awarded)
-  - **2020**: SK Smarteen App+ Challenge
-  - **2021**: Samsung Junior SW Creativity Contest
-  - **2024**: Embedded Contest (Web OS Finals)
+**2019**: Computer Data Science Camp (Awarded)
+**2020**: SK Smarteen App+ Challenge
+**2021**: Samsung Junior SW Creativity Contest
+**2024**: Embedded Contest (Web OS Finals)
 
   ## :mortar_board: Education
   **(2022~)**: 숭실대학교 전자정보공학부 IT융합학과
 
   ## :girl: Experience
-  - **(2020 ~ 2021)**: 북원여자고등학교 ToP 회장
-  - **(2022 ~ 2023)**: 숭실대학교 중앙 동아리 Synergy
-  - **(2022 ~ )**: 숭실대학교 전자정보공학부 소모임 Robotics
-  - **(2024 ~ 2025)**: Robotics 회장
+**(2020 ~ 2021)**: 북원여자고등학교 ToP 회장
+**(2022 ~ 2023)**: 숭실대학교 중앙 동아리 Synergy
+**(2022 ~ )**: 숭실대학교 전자정보공학부 소모임 Robotics
+**(2024 ~ 2025)**: Robotics 회장
   
   ## 🌐 Connect with Me
-  - [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
 
 ---
