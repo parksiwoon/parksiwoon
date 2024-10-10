@@ -26,10 +26,10 @@
   - **Open Source Contributions**: Ant-design Korea
 
   ## :hammer_and_wrench: Notable Projects
-  - **Real-Time Process Monitoring and Resource Optimization Using a Custom Linux Top Command**: Streamlining system performance with a tailored process monitoring tool.
-  - **Modular Smart Farming Dashboard & Community**: A modular kit enabling smart farm environments, with a dashboard for managing and trading agricultural data.
-  - **AI-Powered Smart Farm Solutions**: Intelligent farming solutions for growth prediction and environmental control optimization.
-  - **Ant-design Korea Contribution**: Active participation in the Ant-design Korea community, contributing to open-source.
+  - **Real-Time Process Monitoring and Resource Optimization Using a Custom Linux Top Command**: <br>Streamlining system performance with a tailored process monitoring tool.
+  - **Modular Smart Farming Dashboard & Community**: <br>A modular kit enabling smart farm environments, with a dashboard for managing and trading agricultural data.
+  - **AI-Powered Smart Farm Solutions**: <br>Intelligent farming solutions for growth prediction and environmental control optimization.
+  - **Ant-design Korea Contribution**: <br>Active participation in the Ant-design Korea community, contributing to open-source.
 
   ## 🏆 Competitions
   - **2019**: Computer Data Science Camp (Awarded)
@@ -47,7 +47,6 @@
   - **(2024 ~ 2025)**: Robotics 회장
   
   ## 🌐 Connect with Me
-  - [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-  - [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+  - [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
 
 ---
