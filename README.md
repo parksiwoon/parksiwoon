@@ -23,6 +23,8 @@
   ## :girl:History
    (2022 ~ 2023) 숭실대학교 중앙 동아리 Synergy
   
-   (2022 ~ ) 숭실대학교 전자정보공학부 소모임 Robotics
+   (2022 ~ ) 숭실대학교 전자정보공학부 소모임 Robotics 
+
+   (2024 ~ 2025 ) 숭실대학교 전자정보공학부 소모임 Robotics 회장
   
   :blue_heart::green_heart::purple_heart::heart::yellow_heart:
