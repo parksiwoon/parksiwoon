@@ -49,5 +49,4 @@
   ## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
 
-- [ ] **Mission Utils 활용**
 ---
