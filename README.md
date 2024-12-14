@@ -32,10 +32,10 @@
   - **Ant-design Korea Contribution**: <br>Active participation in the Ant-design Korea community, contributing to open-source.
 
   ## 🏆 Competitions
-<p><strong>2019</strong>: Computer Data Science Camp (Awarded)</p>
+<p><strong>2019</strong>: 🏅Computer Data Science Camp (Awarded)</p>
 <p><strong>2020</strong>: SK Smarteen App+ Challenge</p>
 <p><strong>2021</strong>: Samsung Junior SW Creativity Contest</p>
-<p><strong>2024</strong>: Embedded Contest (Web OS Finals)</p>
+<p><strong>2024</strong>: 🏅Embedded Contest (Web OS Finals)</p>
 
   ## :mortar_board: Education
   **(2022~)**: 숭실대학교 전자정보공학부 IT융합학과
