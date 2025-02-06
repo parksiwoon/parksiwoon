@@ -26,7 +26,7 @@
 <p><strong>Open Source Contributions</strong>: Ant-design Korea</p>
 
   ## :hammer_and_wrench: Notable Projects
-  - **Real-Time Process Monitoring and Resource Optimization Using a Custom Linux Top Command**: <br>Streamlining system performance with a tailored process monitoring tool.
+  - **Real-Time Process Monitoring and Resource Optimization Using a Custom Linux Top Command**: <br>Streamlining system performance with a tailored process monitoring tool. <br>( 📄 2025 OSAKA International Conference on Electronics, Information, and Communication (ICEIC) accepted papers)
   - **Modular Smart Farming Dashboard & Community**: <br>A modular kit enabling smart farm environments, with a dashboard for managing and trading agricultural data.
   - **AI-Powered Smart Farm Solutions**: <br>Intelligent farming solutions for growth prediction and environmental control optimization.
   - **Ant-design Korea Contribution**: <br>Active participation in the Ant-design Korea community, contributing to open-source.
