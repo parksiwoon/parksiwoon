@@ -28,6 +28,7 @@
   ## :hammer_and_wrench: Notable Projects
   - **Real-Time Process Monitoring and Resource Optimization Using a Custom Linux Top Command**: <br>Streamlining system performance with a tailored process monitoring tool. <br>( 📄 2025 OSAKA International Conference on Electronics, Information, and Communication (ICEIC) accepted papers)
   - **Modular Smart Farming Dashboard & Community**: <br>A modular kit enabling smart farm environments, with a dashboard for managing and trading agricultural data.
+ <br>( https://www.webosose.org/blog/2025/01/06/embedded-sw-contest-2024-wildflower/ )
   - **AI-Powered Smart Farm Solutions**: <br>Intelligent farming solutions for growth prediction and environmental control optimization.
   - **Ant-design Korea Contribution**: <br>Active participation in the Ant-design Korea community, contributing to open-source.
 
