@@ -51,3 +51,11 @@
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
 
 ---
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=parksiwoon&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/parksiwoon"
+  width="600"
+  height="300"
+/>
+</a>
