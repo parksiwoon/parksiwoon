@@ -11,13 +11,13 @@
   <div align="center"><h2>📚 My Tech Stack</h2></div>
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/enact-0078D6?style=for-the-badge&logo=webOS&logoColor=white">
   <img src="https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/enact-0078D6?style=for-the-badge&logo=webOS&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
@@ -51,6 +51,7 @@
 <p><strong>(2022 ~ 2023)</strong>: 숭실대학교 중앙 동아리 Synergy</p>
 <p><strong>(2022 ~ )</strong>: 숭실대학교 전자정보공학부 소모임 Robotics</p>
 <p><strong>(2024 ~ 2025)</strong>: Robotics 회장</p>
+<p><strong>(2025.2 ~ )</strong>: 멋쟁이 사자처럼 프론트엔드 부트캠프 13기</p>
   
   ## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
