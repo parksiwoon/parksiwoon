@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
 
   ## 💡 Interests
-<p><strong>Frontend Development</strong>: React, React Native, Enact</p>
+<p><strong>Frontend Development</strong>: React, React Native, Enact, TypeScipt</p>
 <p><strong>Cloud Technologies</strong>: AWS (Certified Practitioner)</p>
 <p><strong>Open Source Contributions</strong>: Ant-design Korea</p>
 
@@ -41,7 +41,7 @@
 <p><strong>2019</strong>: 🏅Computer Data Science Camp (Awarded)</p>
 <p><strong>2020</strong>: SK Smarteen App+ Challenge</p>
 <p><strong>2021</strong>: Samsung Junior SW Creativity Contest</p>
-<p><strong>2024</strong>: 🏅Embedded Contest (Web OS Finals)</p>
+<p><strong>2024</strong>: 🏅Embedded Contest (Web OS Top prize)</p>
 
   ## :mortar_board: Education
   **(2022~)**: 숭실대학교 전자정보공학부 IT융합학과
