@@ -62,7 +62,7 @@
 
 | 구분 | 자격명/등급 | 취득일 | 발급기관 |
 | :--- | :--- | :--- | :--- |
-| **일본어** | JLPT N4 (123점) | 2023.08 | 일본국제교육협회 |
+| **일본어** | JLPT N4  | 2023.08 | 일본국제교육협회 |
 | **자동차운전면허** | 1종 보통 | 2022.01 | 경찰청 (운전면허시험관리단) |
 | **AWS** | Certified Practitioner | 2024.02 | Amazon AWS |
 | **Adobe Premiere Pro** | Certified Professional | 2023.12 | Adobe |
