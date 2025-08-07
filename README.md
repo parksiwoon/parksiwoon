@@ -46,6 +46,18 @@
 <p><strong>2021</strong>: Samsung Junior SW Creativity Contest</p>
 <p><strong>2024</strong>: 🏅Embedded Contest (Web OS Top prize)</p>
 
+## 💳 License, Language
+
+| 구분 | 자격명/등급 | 취득일 | 발급기관 |
+| :--- | :--- | :--- | :--- |
+| **일본어** | JLPT N4 (123점) | 2023.08 | 일본국제교육협회 |
+| **자동차운전면허** | 1종 보통 | 2022.01 | 경찰청 (운전면허시험관리단) |
+| **AWS** | Certified Practitioner | 2024.02 | Amazon AWS |
+| **Adobe Premiere Pro** | Certified Professional | 2023.12 | Adobe |
+| **SQLD** | SQL 개발자 | 2025.04 | 한국데이터베이스진흥원 |
+| **지능형홈관리사** | 지능형홈관리사 | 2025.06 | 한국정보통신자격협회 |
+| **ADsP** | 데이터분석준전문가 | 2025.06 | 한국데이터산업진흥원 |
+
   ## :mortar_board: Education
   **(2022~)**: 숭실대학교 전자정보공학부 IT융합학과
 
