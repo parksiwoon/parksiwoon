@@ -28,23 +28,35 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 
+<br/>
+
   ## 💡 Interests
 <p><strong>Frontend Development</strong>: React, React Native, Enact, TypeScipt</p>
 <p><strong>Cloud Technologies</strong>: AWS (Certified Practitioner)</p>
 <p><strong>Open Source Contributions</strong>: Ant-design Korea</p>
 
   ## :hammer_and_wrench: Notable Projects
-  - **Real-Time Process Monitoring and Resource Optimization Using a Custom Linux Top Command**: <br>Streamlining system performance with a tailored process monitoring tool. <br>( 📄 2025 OSAKA International Conference on Electronics, Information, and Communication (ICEIC) accepted papers)
-  - **Modular Smart Farming Dashboard & Community**: <br>A modular kit enabling smart farm environments, with a dashboard for managing and trading agricultural data.
+   **Real-Time Process Monitoring and Resource Optimization Using a Custom Linux Top Command**: <br>Streamlining system performance with a tailored process monitoring tool. <br>( 📄 2025 OSAKA International Conference on Electronics, Information, and Communication (ICEIC) accepted papers)
+<br/>
+
+   **Modular Smart Farming Dashboard & Community**: <br>A modular kit enabling smart farm environments, with a dashboard for managing and trading agricultural data.
  <br>( https://www.webosose.org/blog/2025/01/06/embedded-sw-contest-2024-wildflower/ )
-  - **AI-Powered Smart Farm Solutions**: <br>Intelligent farming solutions for growth prediction and environmental control optimization.
-  - **Ant-design Korea Contribution**: <br>Active participation in the Ant-design Korea community, contributing to open-source.
+<br/>
+
+   **AI-Powered Smart Farm Solutions**: <br>Intelligent farming solutions for growth prediction and environmental control optimization.
+<br/>
+
+   **Ant-design Korea Contribution**: <br>Active participation in the Ant-design Korea community, contributing to open-source.
+
+<br/>
 
   ## 🏆 Competitions
 <p><strong>2019</strong>: 🏅Computer Data Science Camp (Awarded)</p>
 <p><strong>2020</strong>: SK Smarteen App+ Challenge</p>
 <p><strong>2021</strong>: Samsung Junior SW Creativity Contest</p>
-<p><strong>2024</strong>: 🏅Embedded Contest (Web OS Top prize)</p>
+<p><strong>2024</strong>: 🏅Embedded Contest (Web OS 부문 최우수상, 창의상)</p>
+
+<br/>
 
 ## 💳 License, Language
 
@@ -58,15 +70,21 @@
 | **지능형홈관리사** | 지능형홈관리사 | 2025.06 | 한국정보통신자격협회 |
 | **ADsP** | 데이터분석준전문가 | 2025.06 | 한국데이터산업진흥원 |
 
+<br/>
+
   ## :mortar_board: Education
   **(2022~)**: 숭실대학교 전자정보공학부 IT융합학과
+
+<br/>
 
   ## :girl: Experience
 <p><strong>(2020 ~ 2021)</strong>: 북원여자고등학교 ToP 회장</p>
 <p><strong>(2022 ~ 2023)</strong>: 숭실대학교 중앙 동아리 Synergy</p>
 <p><strong>(2022 ~ )</strong>: 숭실대학교 전자정보공학부 소모임 Robotics</p>
 <p><strong>(2024 ~ 2025)</strong>: Robotics 회장</p>
-<p><strong>(2025.2 ~ )</strong>: 멋쟁이 사자처럼 프론트엔드 부트캠프 13기</p>
+<p><strong>(2025.2 ~ 2025.8 )</strong>: 멋쟁이 사자처럼 프론트엔드 부트캠프 13기</p>
+
+  <br/>
   
   ## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parksw003@gmail.com)
